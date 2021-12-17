@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805735621343",
+    "project_id": "supermulheressteam",
+    "storage_bucket": "supermulheressteam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805735621343:android:ee401613ad36a72515bf6a",
+        "android_client_info": {
+          "package_name": "com.julis.super_mulheres_steam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805735621343-v409c8m12c9smcn1jtafr16669j15m41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMXE9_cyNy58c2R8vjOLPKa_fsiBaf3EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805735621343-v409c8m12c9smcn1jtafr16669j15m41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
